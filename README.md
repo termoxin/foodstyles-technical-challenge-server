@@ -13,6 +13,9 @@ Backend for [foodstyles-technical-challenge-ui](https://github.com/termoxin/food
 Create and fill out .env
 
 DATABASE=
+
 DATABASE_USER=
+
 DATABASE_PASSWORD=
+
 JWT_SECRET=anything you think is safe
