@@ -5,7 +5,7 @@
 ```bash
 nvm use // (if you don't have nvm then Node.js should be greated than v14)
 npm i
-npm dev
+npm run dev
 ```
 
 Backend for [foodstyles-technical-challenge-ui](https://github.com/termoxin/foodstyles-technical-challenge-ui)
